@@ -14,6 +14,8 @@ Also one of the developers of Dancing Line Fan-made Collection (aka DLFC).</br><
 Languages I speak: Chinese(primary) and English.</br>
 Languages I write: C# for Unity, C++, and a little bit Python.</br>
 IDE: VS Code, NotePad</br>
+</br>
+What I want to learn: Machine Learning & AI, Python, JavaScript, Composing Music, and maybe the charms in Harry Potter.</br>
 
 </br>
 The code I wrote either didn't work, or barely worked but was extremely stupid. I hope to improve my coding skills.</br>
