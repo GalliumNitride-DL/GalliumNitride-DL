@@ -8,7 +8,7 @@ I am GaN (it is a nickname). It is my pleasure to meet you.</br></br>
 <h3>About Me</h3>
 Year of birth: 2005</br>
 Joined GitHub since: April 2022</br>
-Currently a third-year student in the No.1 Middle School Affiliated to Central China University.</br>
+Currently an HS graduate of the No.1 Middle School Affiliated to Central China Normal University.</br>
 Also one of the developers of Dancing Line Fan-made Collection (aka DLFC).</br></br>
 
 Languages I speak: Chinese(primary) and English.</br>
